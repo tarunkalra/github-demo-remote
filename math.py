@@ -1,7 +1,7 @@
 def add(x,y):
     pass
 def subtract(x,y):
-    return x-y          #On master branch
+    pass          #On bug456
 def multiply(x,y):
     return x*y              #On bug branch
 def divide(x,y):
